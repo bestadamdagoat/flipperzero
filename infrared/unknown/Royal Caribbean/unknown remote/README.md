@@ -2,4 +2,4 @@
 
 The brand of this remote is unknown. 
 
-(images will be uploaded later)
+Images are in the same directory as README.md.
